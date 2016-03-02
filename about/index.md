@@ -1,5 +1,5 @@
 ---
-layout: _layouts/about
+layout: about
 title: About
 subTitle: All about us
 ---
