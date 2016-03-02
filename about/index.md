@@ -1,6 +1,6 @@
 ---
 layout: about
 title: About
-permalink: /about
+permalink: /about/
 subTitle: All about us
 ---
