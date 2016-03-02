@@ -2,15 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://flamelily.github.io
+title: Flamelily IT Computer support and Web development
+email: info@flamelily.co.uk
+author: Flamelily IT
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2016 Your Name. All Rights Reserved.'
+  Flamelily I.T offer many services at reasonable prices. We are Voice over IP specialists and offer many internet telephony options. 
+  We offer Website and email hosting for small businesses and individuals. We offer Web design and development using the latest web technologies.
+copyright: 'Copyright &copy; 2016 Flamelily IT. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,8 +26,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/flamelilyit
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/flamelily
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/company/flamelily-it
