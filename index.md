@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Landing Page
-subTitle: A Template by Start Bootstrap
+title: Flamelily IT - Your local IT support company
+subTitle: Serving Worcestershire and beyond
 ---
