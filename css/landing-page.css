@@ -4,8 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
-
+@import url(https://fonts.googleapis.com/css?family=Dosis);
 body,
 html {
     width: 100%;
@@ -19,7 +18,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Open Sans Condensed","Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Dosis", "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
 
