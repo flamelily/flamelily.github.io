@@ -1,6 +1,5 @@
 ---
 layout: blog-page
-img: 
 category: Google
 permalink: /:year/:month/:title/
 title: Goodbye Googlemail hello Gmail....
