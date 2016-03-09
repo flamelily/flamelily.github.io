@@ -1,5 +1,6 @@
 ---
 layout: blog-page
+img: /wp-content/uploads/2010/05/Desire.jpg
 category: Phone
 permalink: /:year/:month/:title/
 title: Smartphone heaven

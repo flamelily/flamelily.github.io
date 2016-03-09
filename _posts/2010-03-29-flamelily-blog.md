@@ -1,6 +1,6 @@
 ---
 layout: blog-page
-img: htc_legend_1.jpg
+img: /img/blog/htc_legend_1.jpg
 category: Phone
 permalink: /:year/:month/:title/
 title: New Phone?
