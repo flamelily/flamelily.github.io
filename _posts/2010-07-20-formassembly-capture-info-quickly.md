@@ -2,6 +2,7 @@
 layout: blog-page
 img: /wp-content/uploads/2010/07/FormApp.jpg
 category: Forms
+tags: web form,formassembly
 permalink: /:year/:month/:title/
 title: FormAssembly....capture info quickly
 description: |
