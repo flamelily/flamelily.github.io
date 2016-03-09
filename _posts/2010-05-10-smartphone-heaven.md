@@ -1,6 +1,5 @@
 ---
 layout: blog-page
-img: 
 category: Phone
 permalink: /:year/:month/:title/
 title: Smartphone heaven
