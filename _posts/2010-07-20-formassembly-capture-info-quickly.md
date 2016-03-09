@@ -1,0 +1,20 @@
+title: FormAssembly....capture info quickly
+link: http://www.flamelily.co.uk/2010/07/formassembly-capture-info-quickly/
+author: admin
+description: 
+post_id: 96
+created: 2010/07/20 16:59:02
+created_gmt: 2010/07/20 15:59:02
+comment_status: open
+post_name: formassembly-capture-info-quickly
+status: publish
+post_type: post
+
+# FormAssembly....capture info quickly
+
+Being playing around with [FormAssembly](http://www3.formassembly.com/) recently with some sucess. This is a great tool for online forms and data collection. They have a Salesforce app, Wordpress app and a Google sites tool. Not only that, but they offer a free trial and host the form for you. If you want to get technical you can even download the HTML for use on your own site. This is a great way of creating many forms or questionnaires to capture info quickly and easily, as their form builder is simple to understand and has some great ways you can customise all parts of your form. No software to install just a web app that works. With a free trial account with some limitations its worth giving it a go if you need to capture any kind of information. ![](/wp-content/uploads/2010/07/FormApp-1024x722.jpg)
+
+## Comments
+
+**[Drew](#7 "2010-08-19 22:53:35"):** Hello! Thanks for the mention. We always enjoy seeing people make clean forms with our product. Besides the Google Sites integration, we also let you export to Google Spreadsheets, and use HTTP POST to send data to scripts. If you've got any questions, give us an email.
+
