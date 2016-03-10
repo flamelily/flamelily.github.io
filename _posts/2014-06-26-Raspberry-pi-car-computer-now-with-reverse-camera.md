@@ -1,6 +1,6 @@
 ---
 layout: blog-page
-img: reverse-camera.jpg
+img: /wp-content/2014/06/reverse-camera.jpg
 category: Services
 permalink: /:year/:month/:title/
 title: Raspberry pi car computer now with reverse camera
