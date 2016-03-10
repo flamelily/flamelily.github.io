@@ -1,15 +1,12 @@
+---
+layout: blog-page
+img: /wp-content/uploads/2012/05/unsupported-browser-1024x640.jpg
+category: Hosting
+tags: hosting,memset,domains
+permalink: /:year/:month/:title/
 title: Another Microsoft gaff to do with browsers...
-link: http://www.flamelily.co.uk/2012/05/another-microsoft-gaff-to-do-with-browsers/
-author: admin
-description: 
-post_id: 303
-created: 2012/05/16 13:45:45
-created_gmt: 2012/05/16 12:45:45
-comment_status: open
-post_name: another-microsoft-gaff-to-do-with-browsers
-status: publish
-post_type: post
+description: |
+excerpt_separator: <!--more-->
+---
 
-# Another Microsoft gaff to do with browsers...
-
-Herewith a screenshot showing Microsoft's new Windows 8 operating system with Internet Explorer 10 consumer preview running. We visited Office Live's site and logged in to be told that you need certain browser requirements to view Office Live. Well I'm supposed to be running the latest and greatest from Microsoft and I still can't view one of their own sites. No other sites seem to mind if you use Internet Explorer 10 to view them....... ![Microsoft Gaff](/wp-content/uploads/2012/05/unsupported-browser-1024x640.jpg)
+Herewith a screenshot showing Microsoft's new Windows 8 operating system with Internet Explorer 10 consumer preview running. We visited Office Live's site and logged in to be told that you need certain browser requirements to view Office Live. Well I'm supposed to be running the latest and greatest from Microsoft and I still can't view one of their own sites. No other sites seem to mind if you use Internet Explorer 10 to view them.......<!--more-->

@@ -1,18 +1,16 @@
+---
+layout: blog-page
+img:
+link: 
+category: Raspberry Pi
+tags: car computer,carputer,raspberry pi,knight rider
+permalink: /:year/:month/:title/
 title: Raspberry Pi car computer
-link: http://www.flamelily.co.uk/2013/05/raspberry-pi-car-computer/
-author: admin
-description: 
-post_id: 503
-created: 2013/05/09 11:40:30
-created_gmt: 2013/05/09 10:40:30
-comment_status: open
-post_name: raspberry-pi-car-computer
-status: publish
-post_type: post
+description: |
+excerpt_separator: <!--more-->
+---
 
-# Raspberry Pi car computer
-
-I have always loved those old TV series with futuristic tech in those futuristic vehicles, like Knight Rider, Air Wolf, Street Hawk etc. So it got me thinking about how easy it would be to add a computer to a vehicle. Now I know its been done before and a quick Google search shows multiple websites and companies making very complex car and other vehicle computers, but at a large cost. [caption id="attachment_504" align="aligncenter" width="625"]![Raspberryi Pi running raspbian "wheezy"](/wp-content/uploads/2013/05/2013-05-01-18.52.37-1024x768.jpg) Raspberryi Pi in my Ford Focus running raspbian "wheezy"[/caption] Well I thought my Raspberry Pi is the perfect device for this. 
+I have always loved those old TV series with futuristic tech in those futuristic vehicles, like Knight Rider, Air Wolf, Street Hawk etc. So it got me thinking about how easy it would be to add a computer to a vehicle. Now I know its been done before and a quick Google search shows multiple websites and companies making very complex car and other vehicle computers, but at a large cost. <!--more-->[caption id="attachment_504" align="aligncenter" width="625"]![Raspberryi Pi running raspbian "wheezy"](/wp-content/uploads/2013/05/2013-05-01-18.52.37-1024x768.jpg) Raspberryi Pi in my Ford Focus running raspbian "wheezy"[/caption] Well I thought my Raspberry Pi is the perfect device for this. 
 
   * Its cheap
   * its very small

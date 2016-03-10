@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Flamelily I.T offer many services at reasonable prices. We are Voice over IP specialists and offer many internet telephony options.  We offer Website and email hosting for small businesses and individuals. We offer Web design and development using the latest web technologies.
+">
+    <meta name="author" content="Flamelily IT">
+
+    <title>Install phpMyAdmin onto Ubuntu...</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link href="/css/landing-page.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    
+</head>
+
+	<body>
+		<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="/" class="pull-left"><img src="/img/Logo.jpg" width="50px"></a>
+            <a class="navbar-brand page-scroll" href="/">Flamelily IT</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">  
+            	<li>
+                    <a href="/about/">About</a>
+                </li>  
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+            <li><a href="/services-and-pricing/">Pricing</a></li>
+            <li><a href="/services-and-pricing/voip-services/">Voip Services</a></li>
+            <li><a href="/services-and-pricing/salesforce-customisation/">Salesforce customisation</a></li>
+            <li><a href="/services-and-pricing/social-media/">Social Media</a></li>
+            <li><a href="/services-and-pricing/ebay-items-for-sale/">Ebay Items for Sale</a></li>
+            </ul>
+        </li>
+                <li>
+                    <a href="/contact-us/">Contact</a>
+                </li>
+                <li>
+                    <a href="/flamelily-blog/">Blog</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+		<section id="post">
+	<div class="content-section-a">
+		<div class="container">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+
+  <h1>Install phpMyAdmin onto Ubuntu...</h1>
+
+  <div class="entry">
+    <p>From console: <!--more--></p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>sudo apt-get install phpmyadmin
+</code></pre>
+</div>
+
+<p>This must be done from the console as some questions will need to be answered. Use Putty to login into your server and run the command above. Once phpMyAdmin is installed point your browser to http://yourserveripaddress/phpmyadmin to start using it. You should be able to login using any users you’ve setup in MySQL. If no users have been setup, use <em>admin</em> with no password to login. <strong>To remove Wordpress posts revisions from your database</strong> Just in case you are wondering how post revision works, whenever a post is edited, <strong>a new row</strong> will be created in wp_posts table. Hence if your posts or pages got edited 10 times, you will have 10 new rows in wp_posts table. In no<strong> time</strong> your wp_posts table will be filling up and the post ID will be grow. To turn off this feature, add this following code to <strong>wp-config.php</strong>:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>define('WP_POST_REVISIONS', false);
+</code></pre>
+</div>
+
+<p>You can also delete all post revisions by running this query on your Wordpress database in phpMyAdmin:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>DELETE a,b,c   
+ 
+FROM wp_posts a    
+
+LEFT JOIN wp_term_relationships b ON (a.ID = b.object_id)    
+
+LEFT JOIN wp_postmeta c ON (a.ID = c.post_id)   
+ 
+WHERE a.post_type = 'revision'
+</code></pre>
+</div>
+
+<p>Be sure to backup your database first before performing any queries in phpMyAdmin.</p>
+
+  </div>
+ 
+  <a href="" target="_blank">
+	<img class="img-responsive center-block" src="" alt="">
+  </a>
+  
+  <div class="date">
+    Written on August  6, 2012
+  </div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'flamelily';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+			</div>
+		</div>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+		</div>
+	</div>	
+</section>
+		<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row page-scroll">
+            <div class="col-md-8">
+                <ul class="list-inline">
+                    <li>
+                        <a class="page-scroll" href="#home">Home</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/about/">About</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/services-and-pricing/">Services</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/contact-us/">Contact</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a href="/flamelily-blog/">Blog</a>
+                    </li>
+                </ul>
+                <p class="copyright text-muted small">Copyright &copy; 2016 Flamelily IT. All Rights Reserved.</p>
+            </div>
+            <div class="col-md-4">
+                Web design by <a href="http://www.derekknaggs.com/">derekknaggs.com</a>.
+            </div>
+        </div>
+    </div>
+</footer>
+
+		<!-- jQuery Version 1.12.0 -->
+<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="/js/jquery.easing.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/landing-page.js"></script>
+
+	</body>
+</html>
