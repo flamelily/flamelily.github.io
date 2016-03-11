@@ -1,18 +1,16 @@
+---
+layout: blog-page
+img: /wp-content/uploads/2013/05/Headrest-2-1024x768.jpg
+link: #
+category: Raspberry Pi
+tags: car computer,headrest,movies
+permalink: /:year/:month/:title/
 title: Raspberry Pi car computer - update
-link: http://www.flamelily.co.uk/2013/05/raspberry-pi-car-computer-update/
-author: admin
-description: 
-post_id: 515
-created: 2013/05/23 20:50:59
-created_gmt: 2013/05/23 19:50:59
-comment_status: open
-post_name: raspberry-pi-car-computer-update
-status: publish
-post_type: post
+description: |
+excerpt_separator: <!--more-->
+---
 
-# Raspberry Pi car computer - update
-
-Just thought I would add a few pictures showing the Headrest monitors I installed for the back seat passengers. Movies for the kids......? See my original post here <http://wp.me/p2G9uP-87> [caption id="attachment_516" align="aligncenter" width="625"]![Headrest Monitor Left](/wp-content/uploads/2013/05/Headrest-1-1024x768.jpg) Headrest Monitor Left[/caption] [caption id="attachment_517" align="aligncenter" width="625"]![Headrest monitor right](http://www.flamelily.co.uk/wp-content/uploads/2013/05/Headrest-2-1024x768.jpg) Headrest monitor right[/caption]
+Just thought I would add a few pictures showing the Headrest monitors I installed for the back seat passengers. Movies for the kids......? <!--more-->See my original post here <http://wp.me/p2G9uP-87> [caption id="attachment_516" align="aligncenter" width="625"]![Headrest Monitor Left](/wp-content/uploads/2013/05/Headrest-1-1024x768.jpg) Headrest Monitor Left[/caption]
 
 ## Comments
 
