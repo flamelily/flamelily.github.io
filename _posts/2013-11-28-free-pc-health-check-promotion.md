@@ -1,7 +1,5 @@
 ---
 layout: blog-page
-img: /wp-content/uploads/2010/09/memset.png
-link: http://www.memset.com/?source=flameab
 category: Social Media
 tags: facebook,twitter,health check
 permalink: /:year/:month/:title/
