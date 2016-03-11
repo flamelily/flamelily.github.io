@@ -1,3 +1,16 @@
+---
+layout: blog-page
+img: /wp-content/uploads/2013/11/Batman.png
+link: #
+category: GIMP
+tags: images,GNU,free software
+permalink: /:year/:month/:title/
+title: Playing with GIMP
+description: |
+excerpt_separator: <!--more-->
+---
+
+
 title: Playing with GIMP
 link: http://www.flamelily.co.uk/2013/11/playing-with-gimp/
 author: admin
@@ -12,4 +25,4 @@ post_type: post
 
 # Playing with GIMP
 
-Just playing around with GIMP which is an excellent image manipulation software and is free under the GNU Lesser General Public License or LGPL. I created this image using the text tools within [GIMP.](http://www.gimp.org/) ![Batman](/wp-content/uploads/2013/11/Batman.png)
+Just playing around with GIMP which is an excellent image manipulation software and is free under the GNU Lesser General Public License or LGPL. I created this image using the text tools within [GIMP.](http://www.gimp.org/)<!--more-->
