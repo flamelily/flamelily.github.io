@@ -10,7 +10,7 @@ description: |
 excerpt_separator: <!--more-->
 ---
 
-I have always loved those old TV series with futuristic tech in those futuristic vehicles, like Knight Rider, Air Wolf, Street Hawk etc. So it got me thinking about how easy it would be to add a computer to a vehicle. Now I know its been done before and a quick Google search shows multiple websites and companies making very complex car and other vehicle computers, but at a large cost. <!--more-->[Raspberryi Pi running raspbian "wheezy"](/wp-content/uploads/2013/05/2013-05-01-18.52.37-1024x768.jpg) Raspberryi Pi in my Ford Focus running raspbian "wheezy"[/caption] Well I thought my Raspberry Pi is the perfect device for this. 
+I have always loved those old TV series with futuristic tech in those futuristic vehicles, like Knight Rider, Air Wolf, Street Hawk etc. So it got me thinking about how easy it would be to add a computer to a vehicle. Now I know its been done before and a quick Google search shows multiple websites and companies making very complex car and other vehicle computers, but at a large cost. <!--more--><br><img class="img-responsive center-block" src="/wp-content/uploads/2013/05/2013-05-01-18.52.37-1024x768.jpg" alt="raspbian running"><br>Well I thought my Raspberry Pi is the perfect device for this. 
 
   * Its cheap
   * its very small
