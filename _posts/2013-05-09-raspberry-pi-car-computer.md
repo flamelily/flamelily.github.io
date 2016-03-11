@@ -10,7 +10,7 @@ description: |
 excerpt_separator: <!--more-->
 ---
 
-I have always loved those old TV series with futuristic tech in those futuristic vehicles, like Knight Rider, Air Wolf, Street Hawk etc. So it got me thinking about how easy it would be to add a computer to a vehicle. Now I know its been done before and a quick Google search shows multiple websites and companies making very complex car and other vehicle computers, but at a large cost. <!--more-->[caption id="attachment_504" align="aligncenter" width="625"]![Raspberryi Pi running raspbian "wheezy"](/wp-content/uploads/2013/05/2013-05-01-18.52.37-1024x768.jpg) Raspberryi Pi in my Ford Focus running raspbian "wheezy"[/caption] Well I thought my Raspberry Pi is the perfect device for this. 
+I have always loved those old TV series with futuristic tech in those futuristic vehicles, like Knight Rider, Air Wolf, Street Hawk etc. So it got me thinking about how easy it would be to add a computer to a vehicle. Now I know its been done before and a quick Google search shows multiple websites and companies making very complex car and other vehicle computers, but at a large cost. <!--more-->[Raspberryi Pi running raspbian "wheezy"](/wp-content/uploads/2013/05/2013-05-01-18.52.37-1024x768.jpg) Raspberryi Pi in my Ford Focus running raspbian "wheezy"[/caption] Well I thought my Raspberry Pi is the perfect device for this. 
 
   * Its cheap
   * its very small
@@ -26,7 +26,7 @@ Below is a photo of the Raspberry Pi running the excellent media centre type ope
   5. Wireless N USB dongle from [Amazon](http://www.amazon.co.uk/gp/product/B008FZO1A2/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B008FZO1A2&linkCode=as2&tag=flait-21)
   6. Xenta Wireless Mini Keyboard from [Ebuyer](http://www.ebuyer.com/250233-xenta-wireless-mini-keyboard-with-touchpad-and-multimedia-keys-usb-pkb-1720)(out of stock now) Try [this one](http://www.amazon.co.uk/gp/product/B004GAGM1Q/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B004GAGM1Q&linkCode=as2&tag=flait-21) instead
   7. Micro USB car charger
-Update pictures of headrest in next blogpost here <http://wp.me/p2G9uP-8j>
+Update pictures of headrest in next blogpost [here ](/2013/05/raspberry-pi-car-computer-update/)
 
 ## Comments
 
