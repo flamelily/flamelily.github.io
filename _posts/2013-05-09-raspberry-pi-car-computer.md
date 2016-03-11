@@ -1,7 +1,5 @@
 ---
 layout: blog-page
-img:
-link: 
 category: Raspberry Pi
 tags: car computer,carputer,raspberry pi,knight rider
 permalink: /:year/:month/:title/
