@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 img: /wp-content/uploads/2013/11/Batman.png
-link: #
 category: GIMP
 tags: images,GNU,free software
 permalink: /:year/:month/:title/
