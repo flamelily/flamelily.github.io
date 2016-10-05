@@ -1,10 +1,10 @@
 ---
 layout: blog-page
-img: /img/blog/floppy.png
+img:
 link: 
-caption: Floppy disks 
+caption:
 category: Nostalgia
-tags: floppy,disk,old,anchient
+tags: floppy,disk,old,ancient
 permalink: /:year/:month/:title/
 title: The humble floppy disk
 description: |
