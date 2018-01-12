@@ -11,3 +11,7 @@ Our International customers can use this page to pay their Invoices using Paypal
 ![Secured by PayPal](https://www.paypalobjects.com/webstatic/mktg/logo/bdg_secured_by_pp_2line.png)
 
 [How PayPal Works](https://www.paypal.com/uk/webapps/mpp/how-paypal-works)
+
+Pay by Bitcoin:
+1PR7h5oAMpkha4PC8ExB6rhBzh5w3ShujY
+<img alt="" src="img/BTC.png" border="0" />
