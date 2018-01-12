@@ -13,5 +13,5 @@ Our International customers can use this page to pay their Invoices using Paypal
 [How PayPal Works](https://www.paypal.com/uk/webapps/mpp/how-paypal-works)
 
 Pay by Bitcoin:
-1PR7h5oAMpkha4PC8ExB6rhBzh5w3ShujY
-<img alt="" src="img/BTC.png" border="0" />
+1PR7h5oAMpkha4PC8ExB6rhBzh5w3ShujY<br>
+<img alt="BTC QR Code" src="https://www.flamelily.co.uk/img/BTC.png">
