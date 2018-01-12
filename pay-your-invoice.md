@@ -16,4 +16,6 @@ You can also pay via our Bitcoin Address below. You can use any Bitcoin payment 
 
 Pay by Bitcoin:
 1PR7h5oAMpkha4PC8ExB6rhBzh5w3ShujY<br>
-<img alt="BTC QR Code" src="/img/BTC.png">
+<a href="bitcoin:1PR7h5oAMpkha4PC8ExB6rhBzh5w3ShujY">
+  <img alt="BTC QR Code" src="/img/BTC.png">
+</a>
