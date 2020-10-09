@@ -1,0 +1,25 @@
+I"�<p>From console: <!--more--></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install phpmyadmin
+</code></pre></div></div>
+
+<p>This must be done from the console as some questions will need to be answered. Use Putty to login into your server and run the command above. Once phpMyAdmin is installed point your browser to http://yourserveripaddress/phpmyadmin to start using it. You should be able to login using any users you’ve setup in MySQL. If no users have been setup, use <em>admin</em> with no password to login. <strong>To remove Wordpress posts revisions from your database</strong> Just in case you are wondering how post revision works, whenever a post is edited, <strong>a new row</strong> will be created in wp_posts table. Hence if your posts or pages got edited 10 times, you will have 10 new rows in wp_posts table. In no<strong> time</strong> your wp_posts table will be filling up and the post ID will be grow. To turn off this feature, add this following code to <strong>wp-config.php</strong>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>define('WP_POST_REVISIONS', false);
+</code></pre></div></div>
+
+<p>You can also delete all post revisions by running this query on your Wordpress database in phpMyAdmin:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>DELETE a,b,c   
+ 
+FROM wp_posts a    
+
+LEFT JOIN wp_term_relationships b ON (a.ID = b.object_id)    
+
+LEFT JOIN wp_postmeta c ON (a.ID = c.post_id)   
+ 
+WHERE a.post_type = 'revision'
+</code></pre></div></div>
+
+<p>Be sure to backup your database first before performing any queries in phpMyAdmin.</p>
+:ET

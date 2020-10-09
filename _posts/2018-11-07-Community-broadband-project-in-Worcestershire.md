@@ -18,5 +18,6 @@ We located a field which had a tree at a high point and could be seen by most ho
 We then got permission from a nearby Pub which had fibre broadband to act as our broadband host. We then mounted a Ubuquiti Litebeam 5AC to the Pub roof and used the antenna align tool to align the two Litebeam devices. The Litebeam device on the tree then was connected to another Litebeam 5AC blade device to allow households to get a connection to this device with a much wider Vertical Azimuth.
 
 We had to use a Cherry Picker to get to the tree top as the distance was over 20m.<br>
-<br><img class="img-responsive center-block" src="/img/blog/cherry-picker.jpg" alt="cherry picker"><center><em>Cherry Picker to reach the tree top</em></center>
-Ubiquiti AirOs showing the connection speed between our two Litebeam 5AC devices. 
+<br><img class="img-responsive center-block" src="/img/blog/cherry-picker.jpg" alt="cherry picker"><center><em>Cherry Picker to reach the tree top</em></center><br>
+Ubiquiti AirOs showing the connection speed between our two Litebeam 5AC devices.<br>
+<br><a href="https://community.ubnt.com/t5/airMAX-Stories/Using-a-tree-for-broadband/cns-p/2355210" target="_blank"><img class="img-responsive center-block" src="/img/blog/airos.png" alt="airos"><center><em>Ubiquiti Dashboard</em></center>
