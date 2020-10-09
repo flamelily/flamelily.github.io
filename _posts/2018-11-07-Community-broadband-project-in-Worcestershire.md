@@ -20,4 +20,3 @@ We then got permission from a nearby Pub which had fibre broadband to act as our
 We had to use a Cherry Picker to get to the tree top as the distance was over 20m.<br>
 <br><img class="img-responsive center-block" src="/img/blog/cherry-picker.jpg" alt="cherry picker"><center><em>Cherry Picker to reach the tree top</em></center><br>
 Ubiquiti AirOs showing the connection speed between our two Litebeam 5AC devices.<br>
-<br><a href="https://community.ubnt.com/t5/airMAX-Stories/Using-a-tree-for-broadband/cns-p/2355210" target="_blank"><img class="img-responsive center-block" src="/img/blog/airos.png" alt="airos"><center><em>Ubiquiti Dashboard</em></center>
