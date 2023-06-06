@@ -30,5 +30,3 @@ Apple has long been committed to accessibility, and at WWDC 2023, they showcased
 
 Conclusion:
 The WWDC 2023 event showcased Apple's unwavering commitment to innovation, user experience, and developer empowerment. From the unveiling of the Vision Pro and iOS 16 to advanced developer tools and accessibility features, Apple continues to redefine the boundaries of technology. With a focus on privacy, seamless integration, and transformative experiences, Apple's vision for the future promises to shape the way we interact with technology and pave the way for an even more connected and inclusive world. The introduction of the Vision Pro marks an exciting milestone in augmented reality, offering users a new dimension of immersive experiences and setting the stage for a future where AR becomes an integral part of our daily lives.
-<br>
-<img class="img-responsive center-block" src="/img/blog/wwdc-apple.jpg" alt="signature on computer"><br>
