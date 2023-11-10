@@ -11,7 +11,7 @@ description: |
 excerpt_separator: <!--more-->
 ---
 
-In recent years, Apple has been making waves in the tech industry with its transition from Intel processors to its own custom-designed Apple Silicon chips. Apple silicon is the name given to the custom-designed chips that Apple has been developing for its devices, such as the iPhone, iPad, Apple Watch, and AirPods. In 2020, Apple announced that it would also transition its Mac computers from Intel processors to its own Apple silicon chips, starting with the M1 chip. The M1 chip was followed by the M2, M3, and M3 Pro and Max chips, which offer significant improvements in performance, efficiency, and features over the previous generation of Intel-based Macs.
+In recent years, Apple has been making waves in the tech industry with its transition from Intel processors to its own custom-designed Apple Silicon chips. <!--more-->Apple silicon is the name given to the custom-designed chips that Apple has been developing for its devices, such as the iPhone, iPad, Apple Watch, and AirPods. In 2020, Apple announced that it would also transition its Mac computers from Intel processors to its own Apple silicon chips, starting with the M1 chip. The M1 chip was followed by the M2, M3, and M3 Pro and Max chips, which offer significant improvements in performance, efficiency, and features over the previous generation of Intel-based Macs.
 
 In this blog post, I will explain what Apple silicon is, how it works, and why it matters for Mac users and developers. I will also share some of the benefits and challenges of using Apple silicon Macs, and some tips and resources for getting started with them.
 
