@@ -25,6 +25,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  - title: bluesky
+    url: https://bsky.app/profile/flamelily.co.uk
   - title: twitter
     url: https://twitter.com/flamelilyit
   - title: facebook
